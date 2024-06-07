@@ -32,7 +32,7 @@ $ npx prisma db seed
 $ npm run start:dev
 ```
 
-- Go to your [Localhost](http://localhost:3000/api#/) to see Swagger docs
+- Go to [http://localhost:3000/api#/](http://localhost:3000/api#/) to see Swagger docs
 
 ## Auth
 
